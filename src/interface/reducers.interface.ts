@@ -1,0 +1,1 @@
+export type IUserMode = 'create' | 'update';
